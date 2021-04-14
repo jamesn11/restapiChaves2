@@ -1,0 +1,23 @@
+{
+  "name": "restapiChaves2",
+  "version": "1.0.0",
+  "description": "criação de uma api para consumo no heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesn11/restapiChaves2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesn11/restapiChaves2/issues"
+  },
+  "homepage": "https://github.com/jamesn11/restapiChaves2#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
