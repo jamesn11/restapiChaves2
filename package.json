@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamesn11/restapiChaves2.git"
+    "url": "git+https://github.com/jamesn11/restapichaves2.git"
   },
   "keywords": [],
   "author": "JAMES",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamesn11/restapiChaves2/issues"
+    "url": "https://github.com/jamesn11/restapichaves2/issues"
   },
-  "homepage": "https://github.com/jamesn11/restapiChaves2#readme"
+  "homepage": "https://github.com/jamesn11/restapichaves2#readme"
 }
