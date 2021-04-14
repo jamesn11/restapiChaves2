@@ -4,6 +4,7 @@
   "description": "criação de uma api para consumo no heroku",
   "main": "index.js",
   "scripts": {
+    "start": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,13 +12,10 @@
     "url": "git+https://github.com/jamesn11/restapiChaves2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "JAMES",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jamesn11/restapiChaves2/issues"
   },
-  "homepage": "https://github.com/jamesn11/restapiChaves2#readme",
-  "dependencies": {
-    "json-server": "^0.16.3"
-  }
+  "homepage": "https://github.com/jamesn11/restapiChaves2#readme"
 }
